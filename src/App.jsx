@@ -1,5 +1,5 @@
 import { useEffect, useRef, useState } from "react";
-import StarRating from "./StarRating";
+import StarRating from "./starRating";
 import { useMovies } from "./useMovies";
 import { useLocalStorageState } from "./useLocalStorageState";
 

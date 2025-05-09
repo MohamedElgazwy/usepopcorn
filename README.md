@@ -50,4 +50,4 @@ This project is for educational and portfolio use.
 ## 👤 Author
 
 - GitHub: [@MohamedElgazwy](https://github.com/MohamedElgazwy)
-- LinkedIn: [mohamedelgazwy]([https://www.linkedin.com/in/mohamedelgazwy](https://www.linkedin.com/in/mohammed-algazwy-3092031b7/?trk=public-profile-join-page))
+- LinkedIn: [mohamedelgazwy](https://www.linkedin.com/in/mohammed-algazwy-3092031b7/?trk=public-profile-join-page)
